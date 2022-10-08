@@ -1,18 +1,25 @@
 {
-   "chapters":{
-      "1":{
-         "groups":{
-            "sankakui":[
-               "/proxy/api/imgur/chapter/kYULOYq/"
-         },
-         "last_updated":1665220440,
-         "title":"Chapter 1",
-         "volume":"1"
+  "title": "Ijimete Aishite",
+  "description": "What I'm looking for is not stability but ”stimulation”. ”The bite mark you put on me, it's gone, hasn't it?” Hina, who runs a detective agency, meets Seishi, a clerk at a coffee shop near his new office.Hina is intrigued by his rebellious attitude and charming demeanor and frequents the coffee shop.Kiyoshi, who runs the store by himself, gradually begins to open up to Hina, who has become a regular customer.One night, Hina notices this and, as a thank-you, begins to touch Kiyoshi in a lewd manner...",
+  "artist": "Kihara Noriko",
+  "author": "Kihara Noriko",
+  "cover": "https://i.ibb.co/KqZvh5H/0000.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1665242860",
+      "groups": {
+        "Sankakui": "/proxy/api/imgur/chapter/kYULOYq"
       }
-   },
-   "cover":"https://i.ibb.co/KqZvh5H/0000.png",
-   "description":"What I'm looking for is not stability but "stimulation". "The bite mark you put on me, it's gone, hasn't it?"Hina, who runs a detective agency, meets Seishi, a clerk at a coffee shop near his new office.Hina is intrigued by his rebellious attitude and charming demeanor and frequents the coffee shop.Kiyoshi, who runs the store by himself, gradually begins to open up to Hina, who has become a regular customer.One night, Hina notices this and, as a thank-you, begins to touch Kiyoshi in a lewd manner...",
-   "title":"Ijimete Aishite",
-   "artist":"Kihara Noriko",
-   "author":"Kihara Noriko"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1665242860",
+      "groups": {
+        "Sankakui": "/proxy/api/imgur/chapter/9kBolv4"
+      }
     }
+  }
+}
