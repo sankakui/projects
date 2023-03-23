@@ -7,11 +7,11 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1679611184",
       "groups": {
         "groups": {
-        "Sankakui": "/proxy/api/imgur/chapter/D6lvAAT"
+        "Color Dodge": "/proxy/api/imgur/chapter/D6lvAAT"
       }
     }
   }
